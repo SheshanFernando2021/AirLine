@@ -1,8 +1,8 @@
 @media screen and (max-width:807px) {
     .Cover {
         display: flex;
-        flex-direction: column; /* Stack items vertically */
-        align-items: center; /* Center items horizontally */
+        flex-direction: column; 
+        align-items: center; 
         width: 200px;
         
     }
@@ -53,7 +53,7 @@
 
 .contents {
     position: relative;
-    z-index: 9; /* Set a higher z-index value */
+    z-index: 9; 
 }
 
   
